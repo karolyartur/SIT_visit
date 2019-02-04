@@ -11,4 +11,4 @@ Excersises for the exhange students from SIT
 
 **Important!**
 
-**Ater cloning the repository to the virtual machine do not allow colab to reset the runtime!**
+**After cloning the repository to the virtual machine do not allow colab to reset the runtime!**
